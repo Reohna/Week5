@@ -1,5 +1,11 @@
 .heading{
     color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 
 .paris-paragraph{
@@ -22,3 +28,4 @@ border-bottom: 4px solid grey ;
 padding: width:5px ;
 margin: 0 5px;
 }
+
